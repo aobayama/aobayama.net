@@ -1,8 +1,12 @@
-.member {
-    height: 125px;
+.member-item {
+    margin-bottom: 30px;
 }
 
-.member > img {
+.member-profile {
+    height: 200px;
+}
+
+.member-profile > img {
     margin: 0 auto;
     max-height: 125px;
     max-width: 125px;
