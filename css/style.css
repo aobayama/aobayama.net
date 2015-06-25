@@ -12,6 +12,10 @@
     max-width: 125px;
 }
 
+.benefit-item-container {
+    width: 100%;
+}
+
 .benefit-item {
     height: 100px;
 }
