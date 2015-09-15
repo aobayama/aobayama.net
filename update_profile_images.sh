@@ -1,6 +1,6 @@
 #!/bin/sh
 
-members="bonprosoft ja731j ktt2357 nepiadeath oboenikui ThePerorist y_chu5 sukerutulo"
+members="bonprosoft ja731j yasagao nepiadeath oboenikui ThePerorist y_chu5 sukerutulo"
 
 for name in $members
 do
